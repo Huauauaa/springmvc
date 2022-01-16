@@ -4,6 +4,6 @@
     <title>Huauauaa</title>
 </head>
 <body>
- Hello World!
+ Hello World! - ${msg}
 </body>
 </html>
